@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Tugas Bagus/Kuliah/Semester 5/PSI/Mobilis/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.338" />
+        <entry key="..\:/Tugas Bagus/Kuliah/Semester 5/PSI/Mobilis/app/src/main/res/drawable/back_button.xml" value="0.2555" />
+        <entry key="..\:/Tugas Bagus/Kuliah/Semester 5/PSI/Mobilis/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.338" />
+        <entry key="..\:/Tugas Bagus/Kuliah/Semester 5/PSI/Mobilis/app/src/main/res/drawable/ic_baseline_event_available_24.xml" value="0.338" />
+        <entry key="..\:/Tugas Bagus/Kuliah/Semester 5/PSI/Mobilis/app/src/main/res/drawable/ic_baseline_mic_24.xml" value="0.338" />
+        <entry key="..\:/Tugas Bagus/Kuliah/Semester 5/PSI/Mobilis/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.338" />
+        <entry key="..\:/Tugas Bagus/Kuliah/Semester 5/PSI/Mobilis/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.2555" />
+        <entry key="..\:/Tugas Bagus/Kuliah/Semester 5/PSI/Mobilis/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.2555" />
+        <entry key="..\:/Tugas Bagus/Kuliah/Semester 5/PSI/Mobilis/app/src/main/res/drawable/ic_launcher_background.xml" value="0.338" />
+        <entry key="..\:/Tugas Bagus/Kuliah/Semester 5/PSI/Mobilis/app/src/main/res/drawable/ic_notifications_black_24dp.xml" value="0.2555" />
+        <entry key="..\:/Tugas Bagus/Kuliah/Semester 5/PSI/Mobilis/app/src/main/res/drawable/rounded_bg_price.xml" value="0.2555" />
+        <entry key="..\:/Tugas Bagus/Kuliah/Semester 5/PSI/Mobilis/app/src/main/res/drawable/rounded_corner.xml" value="0.237" />
+        <entry key="..\:/Tugas Bagus/Kuliah/Semester 5/PSI/Mobilis/app/src/main/res/drawable/rounded_grey.xml" value="0.2555" />
+        <entry key="..\:/Tugas Bagus/Kuliah/Semester 5/PSI/Mobilis/app/src/main/res/drawable/rounded_profile.xml" value="0.338" />
+        <entry key="..\:/Tugas Bagus/Kuliah/Semester 5/PSI/Mobilis/app/src/main/res/drawable/rounded_purple.xml" value="0.338" />
+        <entry key="..\:/Tugas Bagus/Kuliah/Semester 5/PSI/Mobilis/app/src/main/res/drawable/rounded_stroke.xml" value="0.338" />
+        <entry key="..\:/Tugas Bagus/Kuliah/Semester 5/PSI/Mobilis/app/src/main/res/drawable/wawancara_object.xml" value="0.338" />
+        <entry key="..\:/Tugas Bagus/Kuliah/Semester 5/PSI/Mobilis/app/src/main/res/layout/activity_BerandaAgen.xml" value="0.25" />
+        <entry key="..\:/Tugas Bagus/Kuliah/Semester 5/PSI/Mobilis/app/src/main/res/layout/activity_berandaagen.xml" value="0.2609375" />
+        <entry key="..\:/Tugas Bagus/Kuliah/Semester 5/PSI/Mobilis/app/src/main/res/layout/activity_daftar.xml" value="0.25" />
+        <entry key="..\:/Tugas Bagus/Kuliah/Semester 5/PSI/Mobilis/app/src/main/res/layout/activity_mainagen.xml" value="0.26197916666666665" />
+        <entry key="..\:/Tugas Bagus/Kuliah/Semester 5/PSI/Mobilis/app/src/main/res/layout/activity_masuk.xml" value="0.31088082901554404" />
+        <entry key="..\:/Tugas Bagus/Kuliah/Semester 5/PSI/Mobilis/app/src/main/res/layout/activity_pilih_user.xml" value="0.19021739130434784" />
+        <entry key="..\:/Tugas Bagus/Kuliah/Semester 5/PSI/Mobilis/app/src/main/res/layout/activity_splash.xml" value="0.19021739130434784" />
+        <entry key="..\:/Tugas Bagus/Kuliah/Semester 5/PSI/Mobilis/app/src/main/res/layout/activity_update.xml" value="0.23867753623188406" />
+        <entry key="..\:/Tugas Bagus/Kuliah/Semester 5/PSI/Mobilis/app/src/main/res/layout/fragment_dashboard.xml" value="0.25" />
+        <entry key="..\:/Tugas Bagus/Kuliah/Semester 5/PSI/Mobilis/app/src/main/res/layout/fragment_home.xml" value="0.28532608695652173" />
+        <entry key="..\:/Tugas Bagus/Kuliah/Semester 5/PSI/Mobilis/app/src/main/res/layout/fragment_notifications.xml" value="0.25" />
+        <entry key="..\:/Tugas Bagus/Kuliah/Semester 5/PSI/Mobilis/app/src/main/res/layout/rent_card.xml" value="0.264" />
+        <entry key="..\:/Tugas Bagus/Kuliah/Semester 5/PSI/Mobilis/app/src/main/res/layout/slider_layout.xml" value="0.176" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
